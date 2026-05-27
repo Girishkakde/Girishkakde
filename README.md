@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Girishkakde
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on app
-- 📫 How to reach me ...
-
-<!?---
-Girishkakde/Girishkakde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 I'm Girish Kakde
+Aspiring Full Stack & AI Developer
+🎓 Diploma Graduate in Computer Engineering
+🚀 Future Engineering Student
+🤖 Oracle AI Certified
+💻 Passionate about Full Stack Development & AI
+🌱 Currently learning React, Node.js & Generative AI
+📫 Email: girishkakde111@gmail.com
